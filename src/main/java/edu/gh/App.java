@@ -1,4 +1,4 @@
-package edu.gh;
+package edu.gh.java;
 
 import org.junit.Test;
 
